@@ -6,6 +6,7 @@ if(number > 0)
     while(count <= number)
     {
         Console.Write(count + " ");
+        count++;
     }
 }
 else
