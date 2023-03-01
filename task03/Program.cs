@@ -9,4 +9,4 @@ if(number==4) Console.WriteLine("Четверг");
 if(number==5) Console.WriteLine("Пятница");
 if(number==6) Console.WriteLine("Суббота");
 if(number==7) Console.WriteLine("Воскресенье");
-if(number > 7) Console.WriteLine("В неделе всего 7 дней");
+else(number > 7); Console.WriteLine("В неделе всего 7 дней");
